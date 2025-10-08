@@ -1,7 +1,7 @@
-# Fund and Ledger System (FLS)
+# Fund and Ledger System (FLS) for MESM
 
 The **Fund and Ledger System (FLS)** is a digital treasury platform designed to manage **fund collection, event-wise ledgers, and transparent expense tracking**.  
-It helps colleges, communities, and organizations **raise funds, track spending, and ensure accountability**.
+It helps us to **raise funds, track spending, and ensure accountability**.
 
 ---
 
@@ -9,7 +9,7 @@ It helps colleges, communities, and organizations **raise funds, track spending,
 -  **Fund Collection** – Crowdfunding from students, alumni, sponsors.  
 -  **Ledger Management** – Event-wise income & expense tracking.  
 -  **Expense Tracking** – Record bills, receipts, and payments.  
--  **Virtual Cards (optional)** – Controlled spending with accountability.  
+-  **Virtual Cards** – Controlled spending with accountability.  
 -  **Transparency Dashboard** – Real-time visibility for all members.  
 -  **Audit Trail** – Every transaction is logged for accountability.  
 
