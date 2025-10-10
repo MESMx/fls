@@ -26,7 +26,7 @@ It helps us to **raise funds, track spending, and ensure accountability**.
 1. Create an event fund page (e.g., *Tech Fest 2025* – target ₹50,000).  
 2. Collect contributions via UPI, cards, or bank transfer.  
 3. Ledger auto-updates with all incoming funds.  
-4. Track expenses with receipts or Enkash virtual cards  
+4. Track expenses with receipts or Enkash virtual cards  or with related services 
    - Example: Food ₹15,000 (Card 1), Stage ₹10,000 (Card 2).  
 5. Dashboard shows real-time balance (Raised ₹50k | Spent ₹32k | Balance ₹18k).  
 
