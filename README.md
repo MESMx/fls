@@ -34,3 +34,15 @@ It helps us to **raise funds, track spending, and ensure accountability**.
 ---
 
 
+## Fork and use at your own college
+
+1. Fork this repository or clone it.
+2. Connect it to a backend like Cashbook.
+3. Customize it for your college events.
+4. Start managing funds transparently!
+
+Also contribute to the main FLS project or feel free to fork it. You can integrate backend infrastructure like Cashbook
+ to manage donations and expenses, and use FLS in your college for transparent event funding.
+
+
+
