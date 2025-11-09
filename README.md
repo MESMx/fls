@@ -1,6 +1,6 @@
-# Fund and Ledger System (FLS) for MESM
+# Fund and Ledger System (FLS) for MESM 
 
-The **Fund and Ledger System (FLS)** is a digital treasury platform designed to manage **fund collection, event-wise ledgers, and transparent expense tracking**.  
+The project - **Fund and Ledger System (FLS)** is a digital treasury platform designed to manage **fund collection, event-wise ledgers, and transparent expense tracking**.  
 It helps us to **raise funds, track spending, and ensure accountability**.
 
 ---
